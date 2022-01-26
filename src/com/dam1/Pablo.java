@@ -1,5 +1,5 @@
 package com.dam1;
 
 public class Pablo {
-    //Añadida clase del Lider 2
+    //Añadida clase del Lider 3
 }
